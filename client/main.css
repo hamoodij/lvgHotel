@@ -1,0 +1,10 @@
+.list-group-item {
+  padding: 30px 10px;
+  margin: 10px 5px;
+  border-radius: 2px;
+}
+.list-group-item button {
+  margin: 10px 0;
+  position: relative;
+  bottom: 16px;
+}
